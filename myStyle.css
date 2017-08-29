@@ -26,7 +26,7 @@ li{
 	font-size: 20px;
 	list-style-type: none;
 	margin: 300px;
-	margin-top: 0px;
+	margin-top: 5px;
 	margin-bottom: 0px;
 }
 
@@ -53,6 +53,7 @@ li{
   opacity: 1;
   font-size: inherit;
   max-height: 999em;
+  padding: 5px;
 }
 
 .read-more-state ~ .read-more-trigger:before {
